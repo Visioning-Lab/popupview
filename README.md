@@ -3,8 +3,11 @@ This is the repository for the PopupView platform prototype in development
 
 Developers are
 Olli Aro (web services)
+
 Jason Guthrie (connecting front end / Unity to web services + supporting app development)
+
 Jessica Symons (Unity app development arranging and animating butterlies from Tiltbrush / Poly. Uploading photographs and Vuforia integration)
+
 Jacki Clark (Tiltbrush artist producing digital butterflies)
 
 
