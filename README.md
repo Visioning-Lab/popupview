@@ -2,13 +2,14 @@
 This is the repository for the PopupView platform prototype in development
 
 Developers are
-Olli Aro (web services)
 
-Jason Guthrie (connecting front end / Unity to web services + supporting app development)
+- Olli Aro (web services)
 
-Jessica Symons (Unity app development arranging and animating butterlies from Tiltbrush / Poly. Uploading photographs and Vuforia integration)
+- Jason Guthrie (connecting front end / Unity to web services + supporting app development)
 
-Jacki Clark (Tiltbrush artist producing digital butterflies)
+- Jessica Symons (Unity app development arranging and animating butterlies from Tiltbrush / Poly. Uploading photographs and Vuforia integration)
+
+- Jacki Clark (Tiltbrush artist producing digital butterflies)
 
 
 The first version of the prototype will make the Tatton and Manchester Museum butterflies and moths available as 2 campaigns in the one app
